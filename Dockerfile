@@ -8,4 +8,4 @@ RUN npm install
 
 COPY . .
 
-CMD [ "node", "fashion.js" ]
+ENTRYPOINT ["./run_fashion.sh"]
