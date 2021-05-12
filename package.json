@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "crawler": "1.2.1",
-    "nodemailer": "6.4.2",
+    "nodemailer": "6.4.16",
     "googleapis": "46.0.0",
     "sleep": "6.1.0"
   }
